@@ -3,7 +3,7 @@ Android Studio ATM Project
 
 Login Instruction:
 
-Username et nip Admin :
+Username and PIN Admin :
 --------------------------------
 Username : admin
 PIN : admin
